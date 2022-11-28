@@ -1,4 +1,4 @@
-# Paraphraser
+#                                                            Paraphraser
 
 # Screenshots
 ![image](https://user-images.githubusercontent.com/60769603/204277296-58c2a8d1-7e2f-4916-b7cf-a5726b8c4c67.png)
